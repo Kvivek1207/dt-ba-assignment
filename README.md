@@ -1,6 +1,6 @@
 # DT Business Analyst Assignment — Ecommerce
 
-**Applicant:** [Your Name Here]
+**Applicant:** [Vivek Kairikonda]
 **Role:** Business Analyst (Ecommerce)
 **Company:** DeepThought
 **Submission Date:** June 2026
@@ -68,7 +68,7 @@ Prepared for a 15-minute MD call using revenue, growth, and margin language only
 
 ## Voice Notes
 
-[Paste your Google Drive folder link here]
+[https://drive.google.com/drive/folders/1dtrJr3kReyDXMQ7oTJyQ1LBeWT3dX1bl?usp=sharing]
 
 ---
 
@@ -77,5 +77,3 @@ Prepared for a 15-minute MD call using revenue, growth, and margin language only
 All calculations were verified independently before submission. Formulas were cross-checked using multiple methods. Assumptions are explicitly stated throughout the work. All interpretations, pattern recognition, scenario judgments, and voice note content reflect my own analysis.
 
 ---
-
-*DT Business Analyst Assignment | DeepThought | 2026*
